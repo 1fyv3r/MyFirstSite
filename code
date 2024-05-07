@@ -2,12 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viiewport" content="width=device-width, initial-scale=1.0"
-    <title>bob</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BOB</title>
         
 </head>
 <body>
-bob
-
+    <h3>MAIN PAGE</h3>
 </body>
 </html>
